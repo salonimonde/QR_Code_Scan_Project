@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             if(result.getContents() == null){
 
                 Toast.makeText(this,"Result Not Found",Toast.LENGTH_LONG).show();
+                Toast.makeText(this,"Result Not Found",Toast.LENGTH_LONG).show();
+                Toast.makeText(this,"Result Not Found",Toast.LENGTH_LONG).show();
             }
             else{
                 try{
